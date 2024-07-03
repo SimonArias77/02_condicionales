@@ -1,0 +1,14 @@
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/bin/Debug/net8.0/02_condicionales
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/bin/Debug/net8.0/02_condicionales.deps.json
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/bin/Debug/net8.0/02_condicionales.runtimeconfig.json
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/bin/Debug/net8.0/02_condicionales.dll
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/bin/Debug/net8.0/02_condicionales.pdb
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/obj/Debug/net8.0/02_condicionales.GeneratedMSBuildEditorConfig.editorconfig
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/obj/Debug/net8.0/02_condicionales.AssemblyInfoInputs.cache
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/obj/Debug/net8.0/02_condicionales.AssemblyInfo.cs
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/obj/Debug/net8.0/02_condicionales.csproj.CoreCompileInputs.cache
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/obj/Debug/net8.0/02_condicionales.dll
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/obj/Debug/net8.0/refint/02_condicionales.dll
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/obj/Debug/net8.0/02_condicionales.pdb
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/obj/Debug/net8.0/02_condicionales.genruntimeconfig.cache
+/home/riwip5-006/SIMON77/C# & .NET/02_condicionales/obj/Debug/net8.0/ref/02_condicionales.dll
